@@ -28,8 +28,8 @@ Pod::Spec.new do |spec|
   #  Specify the location from where the source should be retrieved.
   #  Supports git, hg, bzr, svn and HTTP.
   #
-  spec.source = { :http => 'https://res-download.s3.cn-northwest-1.amazonaws.com.cn/antibot/ios-sdk/frameworks/SwSDK/SwSDK-1.0.9-20230316.zip',
-                :sha1 => 'c100d7750adfd1222d55c2dc5ebaee25b360db42' }
+  spec.source = { :http => 'https://res-download.s3.cn-northwest-1.amazonaws.com.cn/antibot/ios-sdk/frameworks/SwSDK/SwSDK-1.0.9-20230317.zip',
+                :sha1 => 'e7f2fa8a9a8829d7abaeb35fe5344128dcce9363' }
 
   # ――― Published binaries ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   spec.vendored_frameworks = "SwSDK.xcframework"
