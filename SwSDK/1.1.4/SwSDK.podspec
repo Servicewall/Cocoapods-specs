@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
   spec.source = { :http => 'https://res-download.s3.cn-northwest-1.amazonaws.com.cn/antibot/ios-sdk/frameworks/SwSDK/SwSDK-1.1.4-20230330.zip',
-                :sha1 => '9768d231b3464b9bb3f88cb3b7891d1aa73c2569' }
+                :sha1 => '6800f042d0ebb33b926c57ac71cff865e2a6b9eb' }
 
   # ――― Published binaries ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   spec.vendored_frameworks = "SwSDK.xcframework"
